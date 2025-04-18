@@ -1,0 +1,5 @@
+da60ef9 changed key to kangaroo
+bed2c41 easter.html
+1e8b880 changed egg color to dark red
+82c1937 gitignore added
+854a20f Initial commit

@@ -1,0 +1,9 @@
+36fc819 Three changes
+7cc4de4 merged and picked color gradient
+750a33c rainbow color to orange-blue
+26605b2 more eggs different color
+da60ef9 changed key to kangaroo
+bed2c41 easter.html
+1e8b880 changed egg color to dark red
+82c1937 gitignore added
+854a20f Initial commit
