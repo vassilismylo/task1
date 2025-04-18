@@ -9,12 +9,12 @@
     <h1>Happy Easter! 🐣</h1>
     <p>Find the hidden Easter eggs on this page!</p>
     
-    <div class="egg" onclick="alert('You found a chocolate egg! 🍫')"></div>
+    <div class="egg egg3" onclick="alert('You found a chocolate egg! 🍫')"></div>
     <div class="egg" onclick="document.getElementById('secretBunny').style.display='block'"></div>
-    <div class="egg" onclick="this.style.background='rainbow'"></div>
+    <div class="egg egg3" onclick="this.style.background='rainbow'"></div>
     <div class="egg egg2" onclick="alert('You found a chocolate egg! 🍫')"></div>
     <div class="egg egg2" onclick="document.getElementById('secretBunny').style.display='block'"></div>
-    <div class="egg egg2" onclick="this.style.background='rainbow'"></div>
+    <div class="egg egg2 egg3" onclick="this.style.background='rainbow'"></div>
 
     <p class="hidden-basket">🧺 Secret Easter Basket Found! 🧺</p>
     
@@ -27,7 +27,7 @@
             keys.push(e.key);
 
             if (keys.join(',').includes('K', 'A', 'N', 'G', 'A', 'R', 'O', 'O')) {
-                document.body.style.background = 'linear-gradient(45deg,orange,blue)';
+                document.body.style.background = 'linear-gradient(45deg,green,blue)';
             }
         });
     </script>

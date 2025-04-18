@@ -5,7 +5,7 @@ body {
 }
 .egg {
     display: inline-block;
-    width: 100px;
+    width: 120px;
     height: 130px;
     background: linear-gradient(45deg, darkred, #ffcce6);
     border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
@@ -14,7 +14,10 @@ body {
     transition: transform 0.3s;
 }
 .egg2 {
-    background: linear-gradient(45deg, rgb(21, 188, 66), #ffcce6);
+    background: linear-gradient(45deg, rgb(180, 224, 61), #ffcce6);
+}
+.egg3 {
+    background: linear-gradient(45deg, rgb(1, 96, 27), #ffcce6);
 }
 .egg:hover {
     transform: scale(1.1);
